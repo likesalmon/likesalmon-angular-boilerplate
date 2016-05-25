@@ -1,0 +1,6 @@
+*.swp
+node_modules
+*.tar.gz
+*.zip
+.DS_STORE
+npm-debug.log
